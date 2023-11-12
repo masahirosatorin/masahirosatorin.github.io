@@ -125,7 +125,8 @@ body.mobile .button_hover{display:none}
 .tl_article a[href]{color:inherit;-webkit-tap-highlight-color:rgba(0,0,0,.44);text-decoration:none;border-bottom:.1em solid rgba(0,0,0,.7)}
 .tl_article address a[href]{border-bottom:none}
 .tl_article.tl_article_edit address a[href]{border-bottom:.1em solid rgba(0,0,0,.4)}
-.tl_article .tl_article_content .hangingindent{padding-left:22px;text-indent:-22px} 
+.tl_article .tl_article_content .hangingindent{padding-left:30px;text-indent:-30px} 
+.tl_article .tl_article_content .centerbold{font-family:CustomSansSerif,'Lucida Grande',Arial,sans-serif;font-weight:700;font-style:normal;font-size:24px;margin:18px 21px 7px;text-align:center}
 .tl_article .tl_article_content p{margin:0 21px 12px;word-wrap:break-word}
 .tl_article .tl_article_content code,.tl_article .tl_article_content pre{font-family:Menlo,'Courier New',Courier,monospace;font-size:16px;background:#F5F8FC}
 .tl_article .tl_article_content code{padding:1px 3px}
@@ -133,7 +134,7 @@ body.mobile .button_hover{display:none}
 .tl_article .tl_article_content h3,.tl_article .tl_article_content h4{font-family:CustomSansSerif,'Lucida Grande',Arial,sans-serif;font-weight:700;font-style:normal;font-size:28px;margin:18px 21px 9px}
 .tl_article .tl_article_content h4{font-size:24px;margin:18px 21px 7px}
 .tl_article .tl_article_content blockquote{font-family:CustomSerif,Georgia,Cambria,'Times New Roman',serif;margin:18px 21px 16px 0;padding-left:15px;position:relative;font-style:italic;word-wrap:break-word;border-left:3px solid #000}
-.tl_article .tl_article_content aside{font-family:CustomSerif,Georgia,Cambria,'Times New Roman',serif;font-size:21px;color:rgba(0,0,0,.6);margin:18px 21px 16px;padding:0 18px;text-align:center;font-style:italic}
+.tl_article .tl_article_content aside{font-family:CustomSerif,Georgia,Cambria,'Times New Roman',serif;font-size:21px;color:rgba(0,0,0,.6);margin:18px 21px 16px;padding:0 10px;text-align:center;font-style:italic}
 .tl_article .tl_article_content hr{width:50%;margin:30px auto;border:none;font-size:2px;text-align:right;overflow:visible}
 .tl_article .tl_article_content hr:after{content:'';display:block;border-top:1px solid #c9cdd1;margin:0 3px;position:relative;top:1px}
 .tl_article .tl_article_content ol,.tl_article .tl_article_content ul{padding:0;margin:21px;list-style:none;counter-reset:list}
