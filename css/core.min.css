@@ -179,7 +179,7 @@ body.mobile .button_hover{display:none}
 .tl_alert_message a{color:#333}
 @media (max-width:400px){.tl_alert_message{width:auto;left:15px;right:15px;padding:25px 40px}}
 .tl_alert_message .tl_message_buttons{padding:30px 0 0;text-align:center}
-.video-container {
+.tl_article .tl_article_content .video-container {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
