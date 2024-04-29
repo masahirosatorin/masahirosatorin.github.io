@@ -4,7 +4,7 @@ textarea{resize:none}
 .tl_page_wrap{max-width:732px;margin:0 auto}
 .tl_page{position:relative;padding:21px 0}
 .button{font-family:Arial,sans-serif;font-weight:600;font-style:normal;font-size:17px;color:#000;text-decoration:none;border:2px solid #333;border-radius:16px;text-transform:uppercase;padding:4px 12px;margin:0 0 15px;background-color:#fff;cursor:pointer}
-.tl_message{font-family:Arial,sans-serif;padding:70px 0;color:#79828B;text-align:center}
+.tl_message{font-family:Arial,sans-serif;padding:70px 0;color:#595959;text-align:center}
 .tl_message h1{font-size:120px;margin:0}
 .tl_message_buttons{padding:70px 0}
 .tl_message_buttons .button{display:inline-block;margin:0}
@@ -53,8 +53,8 @@ body.mobile .button_hover{display:none}
 .tl_article .tl_article_content.ql-container{white-space:normal}
 .tl_article h1,.tl_article h2{font-family:Arial,sans-serif;font-weight:700;font-style:normal;font-size:32px;margin:21px 21px 12px;line-height:34px}
 .tl_article h2{font-size:24px;margin:-6px 21px 12px;color:rgba(0,0,0,.44)}
-.tl_article address{font-family:Arial,sans-serif;font-size:15px;line-height:18px;color:#79828B;margin:12px 21px;font-style:normal}
-.tl_article address a{color:#79828B}
+.tl_article address{font-family:Arial,sans-serif;font-size:15px;line-height:18px;color:#595959;margin:12px 21px;font-style:normal}
+.tl_article address a{color:#595959}
 .tl_article address.empty{display:none}
 .tl_article.tl_article_edit address.empty{display:block}
 .tl_article address time:before{content:'\2022';padding:0 7px}
@@ -83,7 +83,7 @@ body.mobile .button_hover{display:none}
 .tl_article .tl_article_content .iframe_wrap{max-width:100%;vertical-align:top;position:relative}
 .tl_article .tl_article_content .iframe_wrap iframe{position:absolute;width:1px;height:1px;min-width:100%;min-height:100%;top:0;left:0}
 .tl_article .tl_article_content figure{margin:0 21px 16px;padding:0;text-align:center;position:relative}
-.tl_article .tl_article_content figcaption,.tl_article .tl_article_content figcaption .editable_input{font-family:Arial,sans-serif;font-size:15px;color:#79828B;padding:12px 21px 0;line-height:18px;vertical-align:top;text-align:center}
+.tl_article .tl_article_content figcaption,.tl_article .tl_article_content figcaption .editable_input{font-family:Arial,sans-serif;font-size:15px;color:#595959;padding:12px 21px 0;line-height:18px;vertical-align:top;text-align:center}
 .tl_article .tl_article_content figcaption .editable_input{width:100%;border:none;padding:0;margin:0}
 .tl_article .tl_article_content .figure_wrapper{position:relative}
 .tl_article .tl_article_content .figure_wrapper img,.tl_article .tl_article_content .figure_wrapper video{opacity:1;transition:opacity .15s ease;max-height:690px}
